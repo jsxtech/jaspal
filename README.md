@@ -1,8 +1,7 @@
-
 Jaspal Singh aka jsxtech
 ========================
 
-Software professional with 12+ years of IT experience developing leading-edge technologies, database-driven websites and web applications using html5, php, asp.
+Software professional with 15+ years of IT experience developing leading-edge technologies, database-driven websites and web applications using html5, php, asp.
 
 Linkedin: http://www.linkedin.com/in/jsxtech/
 
